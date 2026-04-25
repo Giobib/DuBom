@@ -1,3 +1,3 @@
 Site para eu aprender a programar em html e css.
 <br>
-<img width="480" height="480" alt="CakeBirthdayCakeGIF" src="https://github.com/user-attachments/assets/ec69d9a4-f461-43bb-921c-d27a4056497d" />
+<img width="281" height="498" alt="ChocolateCakeDessertGIF" src="https://github.com/user-attachments/assets/75c88ec1-4022-4c02-8056-e3b80a7312f9" />
