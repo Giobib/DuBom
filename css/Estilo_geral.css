@@ -1,0 +1,58 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+body {
+    background-color: rgb(143, 77, 53);
+}
+
+div{
+    width: 80%;
+    padding: 20px;
+    margin: 10px auto;
+    background-color: bisque;
+    border-radius: 10px;
+}
+
+
+#video {
+    text-align: center;
+}
+
+p, li {
+    font-size: 30px;
+}
+
+ul, ol {
+    padding-left: 25px;
+}
+
+h1 {
+    font-size: 45px;
+    text-align: center;
+    font-family: cursive;
+}
+
+h2 {
+    font-size: 40px;
+    padding-bottom: 10px;
+}
+
+h3 {
+    font-size: 35px;
+}
+
+a {
+    color: firebrick;
+    font-size: 35px;
+}
+
+ins {
+    font-size: 50px;
+}
